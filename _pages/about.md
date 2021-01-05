@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Binbin Zhang's home on the web!
+My name is Binbin Zhang. I am a master student at Tongji University. Before that, I received the B.S. degree in information security at the Tongji University, China, in 2018.
+
+Research Interests
+======
+My research interests range across computer vision, machine learning, 3D point cloud processing, and explainable AI.
