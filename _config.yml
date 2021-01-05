@@ -11,9 +11,9 @@ title                    : "Binbin Zhang"
 title_separator          : "-"
 name                     : &name "Binbin Zhang"
 description              : &description "My name is Binbin Zhang. I am a Master candidate at Tongji University. Before that, I received the B.S. degree in information security at the Tongji University, China, in 2018."
-url                      : https://vablen-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vablen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vablen/vablen-zhang.github.io"
+repository               : "vablen/vablen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
